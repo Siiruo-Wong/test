@@ -6,5 +6,6 @@ package com.siiruo.bytecode.modification;
 public class TestRebase {
     public static void main(String[] args) {
         System.out.println("test rebase 001");
+        System.out.println("test rebase 002");
     }
 }
